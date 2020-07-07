@@ -1,6 +1,6 @@
-# Web Clock Time Tracker
+# Hackathon Template React Terra Prettier
 
-> Makes time tracking simple for hourly associates.
+> Starter template for a hackathon project using React, Terra, and Prettier.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
